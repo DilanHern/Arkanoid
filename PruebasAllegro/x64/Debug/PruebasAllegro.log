@@ -1,0 +1,8 @@
+﻿  PruebasAllegro.cpp
+C:\Users\svalv\Downloads\TEC\PruebasAllegro\PruebasAllegro\funciones.h(31,30): warning C4081: expected 'newline'; found ';'
+C:\Users\svalv\Downloads\TEC\PruebasAllegro\PruebasAllegro\funciones.h(327,16): warning C4091: 'typedef ': ignored on left of 'Estadisticas' when no variable is declared
+C:\Users\svalv\Downloads\TEC\PruebasAllegro\PruebasAllegro\dos_jugadores.h(28,30): warning C4081: expected 'newline'; found ';'
+C:\Users\svalv\Downloads\TEC\PruebasAllegro\PruebasAllegro\dos_jugadores.h(109,18): warning C4101: 'imagen': unreferenced local variable
+C:\Users\svalv\Downloads\TEC\PruebasAllegro\PruebasAllegro\un_jugador.h(28,30): warning C4081: expected 'newline'; found ';'
+C:\Users\svalv\Downloads\TEC\PruebasAllegro\PruebasAllegro\un_jugador.h(107,18): warning C4101: 'imagen': unreferenced local variable
+  PruebasAllegro.vcxproj -> C:\Users\svalv\Downloads\TEC\PruebasAllegro\x64\Debug\PruebasAllegro.exe
